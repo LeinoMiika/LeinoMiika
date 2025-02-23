@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeinoMiika
 - 👀 I’m interested in technology in general.
-- 🌱 I’m currently learning PLC coding, Python and Java as language.
+- 🌱 I’m currently learning PLC coding, C++, Python and Java as language.
 
 <!---
 LeinoMiika/LeinoMiika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
